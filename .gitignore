@@ -1,3 +1,6 @@
+# Arquivos temporários
+*.~
+
 # Arquivos compilados
 *.ex5
 
