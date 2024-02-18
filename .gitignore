@@ -1,8 +1,8 @@
-# Arquivos temporários
-*.~
-
-# Arquivos compilados
+# exclude files
+*.ex4
 *.ex5
+*.dat
+log.txt
 
 # Windows thumbnail cache files
 Thumbs.db
